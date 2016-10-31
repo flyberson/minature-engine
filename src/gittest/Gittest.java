@@ -12,11 +12,14 @@ public class Gittest {
 public String instance;
 static String[] instances = new String[10];
 public Objecttest test;
+public Gittest test2;
 
 public void String (String instance){
     this.instance="yoyo";
+    instance = "yoyo";
      
 }
+@Override
  public String toString(){
 	 String text = instance +" er ";
 	 
