@@ -11,6 +11,7 @@ package gittest;
 public class Gittest {
 public String instance;
 static String[] instances = new String[10];
+public Objecttest test;
 
 public void String (String instance){
     this.instance="yoyo";
